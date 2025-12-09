@@ -119,5 +119,4 @@ Load the `.pbix` file included in the repository to explore the dashboard.
 * Open the PDF report for full documentation.
 * Open the Gamma presentation link included in the repo.
 
-Just tell me!
 
